@@ -9,7 +9,7 @@
 <table align="center"><tr>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bootstrap,css,arch,astro,rust,discord,bots,git,,html,js,react,svelte,neovim"
+      <img src="https://skillicons.dev/icons?i=bootstrap,css,arch,astro,rust,discord,bots,git,html,js,react,svelte,neovim"
     </a>
   </p>
 </tr></table>
